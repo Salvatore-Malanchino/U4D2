@@ -12,11 +12,11 @@ return myNumber %4==0 ||(myNumber %100==0 && myNumber %400==0);
     }
     public static void main(String[] args) {
         Scanner myScanner=new Scanner(System.in);
-//        System.out.print("inserisci la prima stringa");
-//       String myFirstString= myScanner.nextLine();
-//        if (stringaPariDispari(myFirstString)){
-//            System.out.print("la stringa è pari");
-//        }else { System.out.print("la stringa è dispari");}
+        System.out.print("inserisci la prima stringa");
+       String myFirstString= myScanner.nextLine();
+       if (stringaPariDispari(myFirstString)){
+           System.out.print("la stringa è pari");
+       }else { System.out.print("la stringa è dispari");}
 
         System.out.print("inserisci l'anno");
 int myNumber= myScanner.nextInt();
