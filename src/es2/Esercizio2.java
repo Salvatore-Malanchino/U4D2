@@ -34,23 +34,3 @@ public class Esercizio2 {
     }
 }
 
-// SWTICH CASE + SCANNNER
-//        Scanner myScanner = new Scanner((System.in));
-//        System.out.print("Dammi X");
-//        int x= myScanner.nextInt();
-//
-//        System.out.print("Dammi Y");
-//        int y= myScanner.nextInt();
-//        int z = x>y ? x: y;
-//        switch (z) {
-//            case 10:{ System.out.print("z è 10");
-//            break;}
-//            case 100:{ System.out.print("z è 100");
-//            break;}
-//            case 1000:{ System.out.print("z è 10000");
-//            break;}
-//            default:{System.out.print("z non è nessuno di questi");
-//            break;}
-//
-//            }
-//            myScanner.close();
